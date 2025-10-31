@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Style Shifter",
+  "description": "Upload an image and use text prompts or predefined style suggestions to edit clothing and appearance using the Gemini 2.5 Flash Image model. Transform your photos with AI-powered Indian and Western styles for both men and women.",
+  "requestFramePermissions": []
+}
